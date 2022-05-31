@@ -42,7 +42,7 @@ jobs:
         with:
           java-version: '17'
           distribution: 'temurin'
-          cachee: maven
+          cache: maven
       - name: Testa o projeto com Maven
         run: mvn -B test --file pom.xml
  #Jobs do ambiente de produção
@@ -59,7 +59,7 @@ jobs:
         with:
           java-version: '17'
           distribution: 'temurin'
-          cachee: maven
+          cache: maven
       - name: Empacota o projeto com Maven
         run: mvn -B package --file pom.xml -DskipTests
       - name: Crie uma pasta temporária de downloads de artefatos
