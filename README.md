@@ -1,11 +1,6 @@
-[![Github Actions Status for
-claudiahylario/calculadora](https://github.com/claudiahylario/calculadora/workflows/Integra%C3%A7%C3%A3o%20continua%2
-0de%20Java%20com%20Maven/badge.svg)](https://github.com/claudiahylario/calculadora/actions)
-[![Quality Gate
-Status](https://sonarcloud.io/api/project_badges/measure?project=claudiahylario_calculadora&metric=alert_status)](https://son
-arcloud.io/summary/new_code?id=claudiahylario_calculadora)
-[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=claudiahylario_calculadora&metric=coverage)](https://s
-onarcloud.io/component_measures?id=claudiahylario_alculadora&metric=coverage)
+[![Github Actions Status for claudiahylario/calculadora](https://github.com/claudiahylario/calculadora/workflows/Integra%C3%A7%C3%A3o%20continua%20de%20Java%20com%20Maven/badge.svg)](https://github.com/claudiahylario/calculadora/actions)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=claudiahylario_calculadora&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=claudiahylario_calculadora)
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=claudiahylario_calculadora&metric=coverage)](https://sonarcloud.io/component_measures?id=claudiahylario_alculadora&metric=coverage)
 
 # Calculadora com CI.
 Utiliza 3 ambientes:
